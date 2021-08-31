@@ -1,2 +1,3 @@
 # edutech-pr
-Linguagem front-end
+Projeto edutech
+
